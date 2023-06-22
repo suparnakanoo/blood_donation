@@ -15,7 +15,7 @@
     </h1>
     <nav class="navbar  sticky-top">
         <div class="row">
-            <div ><a href="index_bd.html">Home</a></div>
+            <div ><a href="index.html">Home</a></div>
             <div ><a href="search_final.php">Search</a></div>
             <div ><a href="signup_final.php">Sign up</a></div>
             
